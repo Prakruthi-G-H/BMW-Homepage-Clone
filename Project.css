@@ -210,7 +210,7 @@ button{
     margin-top: 160px;
     background-color: gray;
     height: 95vh;
-    background-image: url(./Banner-desktop.png);
+    background-image: url(images/Banner-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -370,7 +370,7 @@ font-family:  Arial, Helvetica, Roboto, sans-serif;
     /* background-color: gray; */
     height: 60vh;
     margin-bottom: 50px;
-    background-image: url(./WhatsApp\ Image\ 2024-06-03\ at\ 6.51.17\ PM.jpeg);
+    background-image: url(images/WhatsApp\ Image\ 2024-06-03\ at\ 6.51.17\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
@@ -417,7 +417,7 @@ border: 1px solid white;
     background-color:gray;
     height: 75vh;
     margin-top: 150px;
-    background-image: url(./bmw-i7-&-7-series-desktop.png);
+    background-image: url(images/bmw-i7-&-7-series-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
