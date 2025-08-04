@@ -24,8 +24,6 @@ This is a frontend clone of the official BMW homepage, built using HTML and CSS.
 3. Open `Project.html` to view the homepage  
 4. No backend or server setup required
 
----
-
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
