@@ -15,8 +15,6 @@ This is a frontend clone of the official BMW homepage, built using HTML and CSS.
 - `Project.css` → Styling for layout and elements  
 - `README.md` → Project documentation
 
----
-
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
