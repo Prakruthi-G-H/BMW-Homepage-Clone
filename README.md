@@ -2,6 +2,9 @@
 
 This is a frontend clone of the official BMW homepage, built using HTML and CSS. The purpose of this project is to demonstrate frontend development skills using clean code, responsive layouts, and proper project structuring.
 
+## Live Demo Link
+BMW Homepage Clone - [Live Demo](https://prakruthi-g-h.github.io/BMW-Homepage-Clone/)
+
 ## 🛠️ Tech Stack Used
 
 - HTML5  
